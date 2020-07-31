@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👋 Hi, I'm Alex Danilenko
+#### Web-gorilla @ [FFW Agency](https://ffwagency.com)
 
-<!--
-**alexander-danilenko/alexander-danilenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm software engineer interested in:
+- Cloud computing:
+  - Amazon Web Services
+  - Google Cloud Platform, Firebase
+  - Serverless applications
+- DevOps
+- Web development:
+  - Drupal
+  - Symfony Framework
+  - React.js

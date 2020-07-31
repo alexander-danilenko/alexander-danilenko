@@ -8,7 +8,6 @@ I'm software engineer interested in:
   - Serverless applications
 - :bricks: Infrastructure
   - :whale2: Docker
-  - 
 - :gear: DevOps
   - :snake: Automating things using Python
 - :globe_with_meridians: Web development:

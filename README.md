@@ -1,13 +1,16 @@
 ## 👋 Hi, I'm Alex Danilenko
-#### Web-gorilla @ [FFW Agency](https://ffwagency.com)
+#### :monkey_face: Web-gorilla @ [FFW Agency](https://ffwagency.com)
 
 I'm software engineer interested in:
-- Cloud computing:
+- :cloud: Cloud computing:
   - Amazon Web Services
   - Google Cloud Platform, Firebase
   - Serverless applications
-- DevOps
-- Web development:
-  - Drupal
-  - Symfony Framework
-  - React.js
+- :bricks: Infrastructure
+  - :whale2: Docker
+  - 
+- :gear: DevOps
+  - :snake: Automating things using Python
+- :globe_with_meridians: Web development:
+  - :elephant: PHP development using Drupal, Symfony Framework
+  - :man_technologist: React.js

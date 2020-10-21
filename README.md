@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alex Danilenko
-#### :monkey_face: Web-gorilla @ [FFW Agency](https://ffwagency.com)
+#### 🦍 Web-gorilla @ [FFW Agency](https://ffwagency.com)
 
 I am software engineer with a decade of experience in industry. Interested in cloud computing.
 

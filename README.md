@@ -7,51 +7,51 @@ I am a software engineer with over a decade of experience in industry. Intereste
 ## Languages and tools I'm using on a daily base
 
 <p>
-  <img src="https://img.shields.io/badge/html-5-green.svg?style=for-the-badge&classes=inline&logo=html5" />
-  <img src="https://img.shields.io/badge/css-3-green.svg?style=for-the-badge&classes=inline&logo=css3" />
-  <img src="https://img.shields.io/badge/javascript-es5/es6-green.svg?style=for-the-badge&classes=inline&logo=javascript" />
-  <img src="https://img.shields.io/badge/typescript-3/4-green.svg?style=for-the-badge&classes=inline&logo=typescript" />
-  <img src="https://img.shields.io/badge/react.js--blue?style=for-the-badge&classes=inline&logo=react" />
+  <img src="https://img.shields.io/badge/HTML-5-green.svg?style=flat-square&classes=inline&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-3-green.svg?style=flat-square&classes=inline&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6/ES5-green.svg?style=flat-square&classes=inline&logo=javascript" />
+  <img src="https://img.shields.io/badge/typescript-4/3-green.svg?style=flat-square&classes=inline&logo=typescript" />
+  <img src="https://img.shields.io/badge/react.js--blue?style=flat-square&classes=inline&logo=react" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/php-5/7/8-green.svg?style=for-the-badge&classes=inline&logo=php" />
-  <img src="https://img.shields.io/badge/node.JS--blue?style=for-the-badge&classes=inline&logo=node.js" />
-  <img src="https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&classes=inline&logo=python" />
+  <img src="https://img.shields.io/badge/PHP-8/7/5-green.svg?style=flat-square&classes=inline&logo=php" />
+  <img src="https://img.shields.io/badge/Node.JS--blue?style=flat-square&classes=inline&logo=node.js" />
+  <img src="https://img.shields.io/badge/Python-v3.x-blue?style=flat-square&classes=inline&logo=python" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/drupal-7/8/9-green.svg?style=for-the-badge&classes=inline&logo=drupal" />
-  <img src="https://img.shields.io/badge/symfony-5-green.svg?style=for-the-badge&classes=inline&logo=symfony" />
-  <img src="https://img.shields.io/badge/laravel--yellow.svg?style=for-the-badge&classes=inline&logo=laravel" />
-  <img src="https://img.shields.io/badge/firebase--green.svg?style=for-the-badge&classes=inline&logo=firebase" />
+  <img src="https://img.shields.io/badge/Drupal-9/8/7-green.svg?style=flat-square&classes=inline&logo=drupal" />
+  <img src="https://img.shields.io/badge/Symfony-v5-green.svg?style=flat-square&classes=inline&logo=symfony" />
+  <img src="https://img.shields.io/badge/Laravel-v8-yellow.svg?style=flat-square&classes=inline&logo=laravel" />
+  <img src="https://img.shields.io/badge/Firebase--blue.svg?style=flat-square&classes=inline&logo=firebase" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/amazon%20aws--green.svg?style=for-the-badge&classes=inline&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/google%20cloud--green.svg?style=for-the-badge&classes=inline&logo=google-cloud" />
-  <img src="https://img.shields.io/badge/docker--green.svg?style=for-the-badge&classes=inline&logo=docker" />
-  <img src="https://img.shields.io/badge/github--green.svg?style=for-the-badge&classes=inline&logo=github" />
-  <img src="https://img.shields.io/badge/github%20actions--green.svg?style=for-the-badge&classes=inline&logo=github-actions" />
-  <img src="https://img.shields.io/badge/bitbucket--green.svg?style=for-the-badge&classes=inline&logo=bitbucket" />
-  <img src="https://img.shields.io/badge/gitlab--green.svg?style=for-the-badge&classes=inline&logo=gitlab" />
-  <img src="https://img.shields.io/badge/azure%20devops--green.svg?style=for-the-badge&classes=inline&logo=azuredevops" />
-  <img src="https://img.shields.io/badge/azure%20pipelines--green.svg?style=for-the-badge&classes=inline&logo=azure-pipelines" />
-  <img src="https://img.shields.io/badge/circle%20ci--blue.svg?style=for-the-badge&classes=inline&logo=circleci" />
-  <img src="https://img.shields.io/badge/travis%20ci--blue.svg?style=for-the-badge&classes=inline&logo=travis-ci" />
+  <img src="https://img.shields.io/badge/Amazon%20AWS--blue.svg?style=flat-square&classes=inline&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Google%20Cloud--green.svg?style=flat-square&classes=inline&logo=google-cloud" />
+  <img src="https://img.shields.io/badge/Docker--green.svg?style=flat-square&classes=inline&logo=docker" />
+  <img src="https://img.shields.io/badge/GitHub--green.svg?style=flat-square&classes=inline&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions--green.svg?style=flat-square&classes=inline&logo=github-actions" />
+  <img src="https://img.shields.io/badge/BitBucket--green.svg?style=flat-square&classes=inline&logo=bitbucket" />
+  <img src="https://img.shields.io/badge/GitLab--green.svg?style=flat-square&classes=inline&logo=gitlab" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps--blue.svg?style=flat-square&classes=inline&logo=azuredevops" />
+  <img src="https://img.shields.io/badge/Azure%20Pipelines--green.svg?style=flat-square&classes=inline&logo=azure-pipelines" />
+  <img src="https://img.shields.io/badge/Circle%20CI--blue.svg?style=flat-square&classes=inline&logo=circleci" />
+  <img src="https://img.shields.io/badge/Travis%20CI--blue.svg?style=flat-square&classes=inline&logo=travis-ci" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/ubuntu--green.svg?style=for-the-badge&classes=inline&logo=ubuntu" />
-  <img src="https://img.shields.io/badge/debian--green.svg?style=for-the-badge&classes=inline&logo=debian" />
-  <img src="https://img.shields.io/badge/mint--green.svg?style=for-the-badge&classes=inline&logo=linux-mint" />
-  <img src="https://img.shields.io/badge/alpine--blue.svg?style=for-the-badge&classes=inline&logo=alpine-linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-20.04/18.04-green.svg?style=flat-square&classes=inline&logo=ubuntu" />
+  <img src="https://img.shields.io/badge/debian-10-green.svg?style=flat-square&classes=inline&logo=debian" />
+  <img src="https://img.shields.io/badge/mint-20-green.svg?style=flat-square&classes=inline&logo=linux-mint" />
+  <img src="https://img.shields.io/badge/alpine--blue.svg?style=flat-square&classes=inline&logo=alpine-linux" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/jetbrains-all%20ides-green.svg?style=for-the-badge&classes=inline&logo=jetbrains" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code--green.svg?style=for-the-badge&classes=inline&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Postman--green.svg?style=for-the-badge&classes=inline&logo=postman" />
+  <img src="https://img.shields.io/badge/JetBrains-all%20ides-green.svg?style=flat-square&classes=inline&logo=jetbrains" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code--green.svg?style=flat-square&classes=inline&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Postman--green.svg?style=flat-square&classes=inline&logo=postman" />
 </p>
 
 ## Social links

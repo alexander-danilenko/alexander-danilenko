@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alex Danilenko
+# 👋 Hi, I'm Alex
 
 ## 🦍 Web-gorilla @ [FFW Agency](https://ffwagency.com)
 

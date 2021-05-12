@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alex
 
-## 🦍 Web-gorilla @ [FFW Agency](https://ffwagency.com)
+🦍 Drupal/React/DevOps engineer @ [FFW Agency](https://ffwagency.com)
 
-I am a software engineer with over a decade of experience in industry. Interested in web development, devops and cloud computing.
+I am a software and system engineer with over a decade of experience in industry. Interested in web development, devops and cloud computing.
 
 ## Social links
 

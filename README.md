@@ -19,5 +19,5 @@ I am a software and system engineer with over a decade of experience in industry
    <img src="https://img.shields.io/badge/drupal-25aae1.svg?style=for-the-badge&classes=inline&logo=drupal" />
 </a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-   <img src="https://img.shields.io/badge/instagram-bc2a8d.svg?style=for-the-badge&classes=inline&logo=instagram" />
+   <img src="https://img.shields.io/badge/instagram-ffdc80.svg?style=for-the-badge&classes=inline&logo=instagram" />
 </a>

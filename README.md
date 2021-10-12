@@ -4,6 +4,8 @@
 
 I am a software and system engineer with over a decade of experience in the industry. Interested in web development, DevOps, and cloud computing.
 
+<img src="https://github-readme-stats.vercel.app/api?username=alexander-danilenko&count_private=true&show_icons=true&include_all_commits=true" />
+
 <img src="https://github-profile-trophy.vercel.app/?username=alexander-danilenko&margin-w=15&margin-h=15&column=4" />
 
 ## Social links

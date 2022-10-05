@@ -8,6 +8,8 @@ I am a software and system engineer with over a decade of experience in the indu
 
 <img src="https://github-profile-trophy.vercel.app/?username=alexander-danilenko&margin-w=18&margin-h=18&column=4" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-danilenko&&layout=compact&hide=[PHP,php,CoffeScript,PowerShell,powershell]" />
+
 ## Social links
 
 <a href="https://www.linkedin.com/in/alexander-danilenko/" target="_blank">

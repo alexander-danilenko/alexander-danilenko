@@ -4,10 +4,6 @@
 
 I am a software and system engineer with over a decade of experience in the industry. Interested in web development, DevOps, and cloud computing.
 
-<img src="https://github-readme-stats.vercel.app/api?username=alexander-danilenko&count_private=true&show_icons=true&include_all_commits=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=alexander-danilenko&margin-w=18&margin-h=18&column=4" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-danilenko&&layout=compact&hide=[PHP,php,CoffeScript,PowerShell,powershell]" />
 
 ## Social links
@@ -31,3 +27,4 @@ I am a software and system engineer with over a decade of experience in the indu
    <img src="https://img.shields.io/badge/ONLYFANS-fff.svg?style=for-the-badge&classes=inline&logo=onlyfans" />
 </a>
 
+<img src="./snake.svg" />

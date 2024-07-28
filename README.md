@@ -2,9 +2,9 @@
 
 🦍 Software/System/DevOps engineer @ [FFW Agency](https://ffwagency.com)
 
-I am a software and system engineer with over a decade of experience in the industry. Interested in web development, DevOps, and cloud computing.
+I am a software and system engineer with over a decade of experience in the industry. I am interested in web development, DevOps, and cloud computing.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-danilenko&&layout=compact&hide=[PHP,php,CoffeScript,PowerShell,powershell]" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-danilenko&&layout=compact&hide=[PHP,php,CoffeScript,PowerShell,powershell,css,jinja]" />
 
 ## Social links
 

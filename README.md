@@ -21,9 +21,6 @@ I am a software and system engineer with over a decade of experience in the indu
    <img src="https://img.shields.io/badge/drupal-25aae1.svg?style=for-the-badge&classes=inline&logo=drupal" />
 </a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-   <img src="https://img.shields.io/badge/instagram-4c68d7.svg?style=for-the-badge&classes=inline&logo=instagram" />
-</a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
    <img src="https://img.shields.io/badge/ONLYFANS-fff.svg?style=for-the-badge&classes=inline&logo=onlyfans" />
 </a>
 

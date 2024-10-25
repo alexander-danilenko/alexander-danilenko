@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alex
 
-🦍 Software/System/DevOps engineer @ [FFW Agency](https://ffwagency.com)
+🦍 Software/System/DevOps engineer
 
 I am a software and system engineer with over a decade of experience in the industry. I am interested in web development, DevOps, and cloud computing.
 
@@ -15,7 +15,7 @@ I am a software and system engineer with over a decade of experience in the indu
    <img src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&classes=inline&logo=github" />
 </a>
 <a href="https://gitlab.com/alexander-danilenko" target="_blank">
-   <img src="https://img.shields.io/badge/gitlab-fc6d27.svg?style=for-the-badge&classes=inline&logo=gitlab" />
+   <img src="https://img.shields.io/badge/gitlab-fff.svg?style=for-the-badge&classes=inline&logo=gitlab" />
 </a>
 <a href="https://www.drupal.org/u/alexander_danilenko">
    <img src="https://img.shields.io/badge/drupal-25aae1.svg?style=for-the-badge&classes=inline&logo=drupal" />
